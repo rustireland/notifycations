@@ -1,0 +1,19 @@
+{
+  "Show Connections": true,
+  "Connection Notify Type": 2,
+  "Show Disconnections": true,
+  "Disconnection Notify Type": 3,
+  "Show Bans": true,
+  "Ban Notify Type": 4,
+  "Show Unbans": true,
+  "Unban Notify Type": 5,
+  "Show Kicks": true,
+  "Kick Notify Type": 6,
+  "Show Mutes": true,
+  "Mute Notify Type": 7,
+  "Show Unmutes": true,
+  "Unmute Notify Type": 8,
+  "Hide Time Out Disconnects": true,
+  "Hide FlyHack Disconnects": true,
+  "Hide Unresponsive Kicks": true
+}

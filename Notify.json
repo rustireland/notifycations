@@ -1,0 +1,389 @@
+{
+  "Permission (example: notify.use)": "",
+  "Height": 50.0,
+  "Width": 260.0,
+  "X Margin": 20.0,
+  "Y Margin": 5.0,
+  "Y Indent": -50.0,
+  "Notify Cooldown": 10.0,
+  "Notifications (type - settings)": {
+    "0": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "!",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Notification",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "1": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "X",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Error",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "2": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "!",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Connect",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "3": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "X",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Disconnect",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "4": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "X",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Ban",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "5": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "!",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Unban",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "6": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "X",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Kick",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "7": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#FF6060",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "X",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Mute",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    },
+    "8": {
+      "Background Color": {
+        "HEX": "#000000",
+        "Opacity (0 - 100)": 98.0
+      },
+      "Enable Gradient?": true,
+      "Gradient Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 35.0
+      },
+      "Sprite": "assets/content/ui/ui.background.transparent.linearltr.tga",
+      "Material": "Assets/Icons/IconMaterial.mat",
+      "Icon Color": {
+        "HEX": "#4B68FF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Icon Text": "!",
+      "Icon Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Title Key (lang)": "Unmute",
+      "Title Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 50.0
+      },
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Opacity (0 - 100)": 100.0
+      },
+      "Fade Out": 1.0,
+      "Fade In": 0.1,
+      "Sound Effect (empty - disable)": "assets/bundled/prefabs/fx/notice/item.select.fx.prefab",
+      "Image Settings": {
+        "Enabled": false,
+        "Image": "",
+        "AnchorMin": "0 0",
+        "AnchorMax": "0 0",
+        "OffsetMin": "12.5 12.5",
+        "OffsetMax": "37.5 37.5"
+      }
+    }
+  }
+}
